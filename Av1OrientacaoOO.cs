@@ -4,7 +4,7 @@ public class Program
 {
 	public static void Main()
 	{
-		Console.WriteLine("Hello World");
+		Console.WriteLine("Olá Mundo");
 		
 		ICanal whatsAppProfessor = new WhatsApp();
 		ICanal instaAluno = new Instagram();
